@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "972195679870",
+    "firebase_url": "https://covoiturage-f18ae.firebaseio.com",
+    "project_id": "covoiturage-f18ae",
+    "storage_bucket": "covoiturage-f18ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972195679870:android:269d98d5fc992912",
+        "android_client_info": {
+          "package_name": "voiturage.co.com.co_voiturage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972195679870-voa8ek5t3umd51j15d3qmj1b7dduvidu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "voiturage.co.com.co_voiturage",
+            "certificate_hash": "448b8cae64edf419295626980d5014d9d2eac915"
+          }
+        },
+        {
+          "client_id": "972195679870-qgq72aln30fgl1hgk3je1acalo9mf45r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCKXtf2QLGehL95sMrxkISkzXCSySRT18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972195679870-qgq72aln30fgl1hgk3je1acalo9mf45r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

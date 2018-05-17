@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">co-voiturage</string>
+    <string name="title_activity_signup">Signup</string>
+    <string-array name="planets_array">
+        <item>Conducteur</item>
+        <item>Voyageur</item>
+    </string-array>
+</resources>
